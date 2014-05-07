@@ -1,4 +1,6 @@
-* Sun May 7 2014 coderus <coderusinbox@gmail.com> 0.1-1
+* Thu May 8 2014 coderus <coderusinbox@gmail.com> 0.1-2
+- Fixed daemon service
+
+
+* Wed May 7 2014 coderus <coderusinbox@gmail.com> 0.1-1
 - First release
-
-
