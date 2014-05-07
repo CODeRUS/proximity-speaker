@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Name=Prox. Speaker
+Icon=proximity-speaker
+Exec=proximity-speaker
+
