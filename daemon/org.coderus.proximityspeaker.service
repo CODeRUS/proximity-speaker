@@ -1,4 +1,4 @@
 [D-BUS Service]
-Name=org.coderus.proximity-speaker
+Name=org.coderus.proximityspeaker
 Exec=/usr/bin/invoker --type=qt5 -s /usr/bin/proximity-speaker-daemon
 User=nemo
